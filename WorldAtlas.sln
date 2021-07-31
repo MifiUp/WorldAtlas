@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldAtlas", "WorldAtlas\WorldAtlas.csproj", "{77EDA378-3420-434E-9B3B-5D47F7DF19FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDB", "ToDB\ToDB.csproj", "{594EB820-126E-4683-ADD9-365D443FFE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77EDA378-3420-434E-9B3B-5D47F7DF19FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EDA378-3420-434E-9B3B-5D47F7DF19FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EDA378-3420-434E-9B3B-5D47F7DF19FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EDA378-3420-434E-9B3B-5D47F7DF19FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594EB820-126E-4683-ADD9-365D443FFE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594EB820-126E-4683-ADD9-365D443FFE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594EB820-126E-4683-ADD9-365D443FFE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594EB820-126E-4683-ADD9-365D443FFE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C01AB5C0-BFE4-40DB-BAAA-2B2BC572028B}
+	EndGlobalSection
+EndGlobal
